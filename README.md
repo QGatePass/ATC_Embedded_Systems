@@ -1,2 +1,1 @@
-# ATC_Embedded_Systems
-Embedded Systems Subcommunity repo for open source community based projects.
+This is a community repository for anyone doing embedded systems to colloborate with others at Embedded Systems. Please no AI generated code, that's a false sense of mastery, any overly commented code will be rejected, humans don't explain what obvious portions of code do, only machines. 
