@@ -32,6 +32,11 @@ void setup()
   irSensor.enableIRIn();
   Rtc.Begin();
   RtcDateTime compiled = RtcDateTime(__DATE__, __TIME__);
-  printDateTime(compiled);
+  // printDateTime(compiled);
   Serial.println();
+}
+
+void loop(){
+  float adcVolt = analogRead(4  );
+  Serial.println(adcVolt);
 }
